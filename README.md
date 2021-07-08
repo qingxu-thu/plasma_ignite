@@ -12,5 +12,17 @@ The method is simple. We take the plasma as two steps. The first is the energy, 
 
 # Results
 We just shows the results in the following figures. From the figure we could view a symmetry propagation of the pressure. We even could view the shock wave， which could be confirm with the next curve figure. We could also watch the temperature changing and transfer both because the chemical reaction and the radiation heat transfer.
-
-
+<br>
+![image](./result/T.gif)
+<br>
+Spatial Temperature Change
+<br>
+![image](./result/Tchange.jpg)
+![image](./result/OHchange.jpg)
+<br>
+T and OH change
+<br>
+![image](./result/P.jpg)
+![image](./result/poschange.jpg)
+<br>
+P change and shock wave
